@@ -17,7 +17,21 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "lib-components": [
+        "dist/lib-components"
+      ],
+      "lib-components/*": [
+        "dist/lib-components/*"
+      ],
+      "libreria-componentes": [
+        "dist/libreria-componentes"
+      ],
+      "libreria-componentes/*": [
+        "dist/libreria-componentes/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

@@ -1,0 +1,19 @@
+{
+  "name": "libreria-componentes",
+  "version": "8.0.1",
+  "author": {
+    "email": "maribel.moreno@tectijuana.edu.mx",
+    "name": "Maribel Moreno"
+  },
+  "description": "Ejemplo biblioteca componentes",
+  "keywords": [
+    "angular",
+    "ejemplo,",
+    "biblioteca",
+    "componentes"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}

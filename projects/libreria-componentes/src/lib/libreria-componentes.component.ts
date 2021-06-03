@@ -1,10 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'libreria-libreria-componentes',
+  selector: 'libreria-componentes',
   template: `
     <p>
-      libreria-componentes works!
+      Libreria libreria Componentes works!
     </p>
   `,
   styles: []

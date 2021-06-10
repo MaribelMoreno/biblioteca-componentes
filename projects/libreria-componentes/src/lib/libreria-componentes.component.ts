@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'libreria-componentes',
   template: `
     <p>
-      Libreria libreria Componentes works!
+      Libreria Componentes works!
     </p>
   `,
   styles: []

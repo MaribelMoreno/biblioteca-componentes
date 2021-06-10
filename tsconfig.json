@@ -30,6 +30,12 @@
       ],
       "libreria-componentes/*": [
         "dist/libreria-componentes/*"
+      ],
+      "join-pipe": [
+        "dist/join-pipe"
+      ],
+      "join-pipe/*": [
+        "dist/join-pipe/*"
       ]
     }
   },
